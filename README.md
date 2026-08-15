@@ -15,4 +15,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
