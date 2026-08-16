@@ -26,6 +26,7 @@ My solutions to LeetCode problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
@@ -89,6 +90,7 @@ My solutions to LeetCode problems
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -98,4 +100,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
