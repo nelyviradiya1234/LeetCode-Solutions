@@ -6,6 +6,7 @@ My solutions to LeetCode problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [2029-stone-game-ix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -69,6 +70,7 @@ My solutions to LeetCode problems
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [2029-stone-game-ix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Counting
@@ -87,4 +89,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
