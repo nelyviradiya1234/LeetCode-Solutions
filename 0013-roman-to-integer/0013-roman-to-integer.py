@@ -1,33 +1,21 @@
 class Solution(object):
     def romanToInt(self, s):
-        ans = 0
-        prev = 0
-        i = len(s) - 1
+        values = {
+            'I': 1,
+            'V': 5,
+            'X': 10,
+            'L': 50,
+            'C': 100,
+            'D': 500,
+            'M': 1000
+        }
 
-        while i >= 0:
-            c = s[i]
+        total = 0
 
-            if c == 'I':
-                v = 1
-            elif c == 'V':
-                v = 5
-            elif c == 'X':
-                v = 10
-            elif c == 'L':
-                v = 50
-            elif c == 'C':
-                v = 100
-            elif c == 'D':
-                v = 500
+        for i in range(len(s)):
+            if i + 1 < len(s) and values[s[i]] < values[s[i + 1]]:
+                total -= values[s[i]]
             else:
-                v = 1000
+                total += values[s[i]]
 
-            if v < prev:
-                ans -= v
-            else:
-                ans += v
-
-            prev = v
-            i -= 1
-
-        return ans
+        return total
