@@ -10,6 +10,7 @@ My solutions to LeetCode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -108,6 +109,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +137,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
