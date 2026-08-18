@@ -9,6 +9,7 @@ My solutions to LeetCode problems
 | [0001-two-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -26,6 +27,7 @@ My solutions to LeetCode problems
 | [0010-regular-expression-matching](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Math
@@ -129,4 +131,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
