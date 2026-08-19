@@ -12,6 +12,7 @@ My solutions to LeetCode problems
 | [0014-longest-common-prefix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -116,6 +117,7 @@ My solutions to LeetCode problems
 | [0011-container-with-most-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0015-3sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
