@@ -18,6 +18,7 @@ My solutions to LeetCode problems
 | [2029-stone-game-ix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -157,4 +158,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
