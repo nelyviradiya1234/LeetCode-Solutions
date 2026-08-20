@@ -36,6 +36,7 @@ My solutions to LeetCode problems
 | [0014-longest-common-prefix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Math
@@ -61,6 +62,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -163,6 +165,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +178,5 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
