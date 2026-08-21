@@ -119,6 +119,7 @@ My solutions to LeetCode problems
 | [0002-add-two-numbers](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ My solutions to LeetCode problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
