@@ -44,6 +44,7 @@ My solutions to LeetCode problems
 | [0020-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -75,6 +76,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -200,11 +202,13 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
