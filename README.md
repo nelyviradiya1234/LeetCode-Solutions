@@ -24,6 +24,7 @@ My solutions to LeetCode problems
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@ My solutions to LeetCode problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
