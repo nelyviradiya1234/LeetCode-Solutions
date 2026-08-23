@@ -18,6 +18,7 @@ My solutions to LeetCode problems
 | [0031-next-permutation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1929-concatenation-of-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
