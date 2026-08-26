@@ -19,6 +19,7 @@ My solutions to LeetCode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -131,6 +132,7 @@ My solutions to LeetCode problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@ My solutions to LeetCode problems
 | [0013-roman-to-integer](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Linked List
