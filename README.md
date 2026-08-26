@@ -18,6 +18,7 @@ My solutions to LeetCode problems
 | [0031-next-permutation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -181,6 +182,7 @@ My solutions to LeetCode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
