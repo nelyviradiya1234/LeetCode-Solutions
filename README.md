@@ -21,6 +21,7 @@ My solutions to LeetCode problems
 | [0035-search-insert-position](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -212,6 +213,7 @@ My solutions to LeetCode problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
