@@ -30,6 +30,7 @@ My solutions to LeetCode problems
 | [0047-permutations-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -244,6 +245,7 @@ My solutions to LeetCode problems
 | [0040-combination-sum-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +288,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
