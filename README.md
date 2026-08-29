@@ -27,6 +27,7 @@ My solutions to LeetCode problems
 | [0042-trapping-rain-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -223,6 +224,7 @@ My solutions to LeetCode problems
 | [0015-3sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@ My solutions to LeetCode problems
 | [0039-combination-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
