@@ -32,6 +32,7 @@ My solutions to LeetCode problems
 | [0049-group-anagrams](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -160,6 +161,7 @@ My solutions to LeetCode problems
 | [0036-valid-sudoku](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -254,6 +256,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Stack
