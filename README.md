@@ -246,6 +246,7 @@ My solutions to LeetCode problems
 | [0046-permutations](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
