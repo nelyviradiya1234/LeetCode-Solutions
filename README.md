@@ -35,6 +35,7 @@ My solutions to LeetCode problems
 | [0054-spiral-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
