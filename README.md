@@ -195,6 +195,7 @@ My solutions to LeetCode problems
 | [0027-remove-element](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@ My solutions to LeetCode problems
 | [0023-merge-k-sorted-lists](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
