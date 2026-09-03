@@ -90,6 +90,7 @@ My solutions to LeetCode problems
 | [0048-rotate-image](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -115,6 +116,7 @@ My solutions to LeetCode problems
 | [0045-jump-game-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -288,6 +290,7 @@ My solutions to LeetCode problems
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
