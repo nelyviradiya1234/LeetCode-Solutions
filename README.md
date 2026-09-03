@@ -76,6 +76,7 @@ My solutions to LeetCode problems
 | [0044-wildcard-matching](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0065-valid-number/) | Hard |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
