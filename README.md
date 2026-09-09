@@ -55,6 +55,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -78,6 +79,7 @@ My solutions to LeetCode problems
 | [0049-group-anagrams](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0065-valid-number/) | Hard |
+| [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -96,6 +98,7 @@ My solutions to LeetCode problems
 | [0060-permutation-sequence](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -282,6 +285,7 @@ My solutions to LeetCode problems
 | [0043-multiply-strings](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Stack
