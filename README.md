@@ -40,6 +40,7 @@ My solutions to LeetCode problems
 | [0063-unique-paths-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -80,6 +81,7 @@ My solutions to LeetCode problems
 | [0058-length-of-last-word](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -286,6 +288,7 @@ My solutions to LeetCode problems
 | [0054-spiral-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [1929-concatenation-of-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Stack
