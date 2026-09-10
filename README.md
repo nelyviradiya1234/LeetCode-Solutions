@@ -41,6 +41,7 @@ My solutions to LeetCode problems
 | [0064-minimum-path-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -192,6 +193,7 @@ My solutions to LeetCode problems
 | [0059-spiral-matrix-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ My solutions to LeetCode problems
 | [0037-sudoku-solver](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Linked List
