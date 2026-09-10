@@ -82,6 +82,7 @@ My solutions to LeetCode problems
 | [0065-valid-number](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
+| [0072-edit-distance](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -132,6 +133,7 @@ My solutions to LeetCode problems
 | [0063-unique-paths-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
