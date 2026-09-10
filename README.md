@@ -102,6 +102,7 @@ My solutions to LeetCode problems
 | [0066-plus-one](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -130,6 +131,7 @@ My solutions to LeetCode problems
 | [0062-unique-paths](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -348,4 +350,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
