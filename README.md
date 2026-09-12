@@ -43,6 +43,7 @@ My solutions to LeetCode problems
 | [0068-text-justification](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -221,6 +222,7 @@ My solutions to LeetCode problems
 | [0031-next-permutation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@ My solutions to LeetCode problems
 | [0047-permutations-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +357,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,4 +366,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
