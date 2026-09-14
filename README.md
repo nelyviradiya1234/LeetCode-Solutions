@@ -299,6 +299,7 @@ My solutions to LeetCode problems
 | [0047-permutations-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
+| [0077-combinations](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
