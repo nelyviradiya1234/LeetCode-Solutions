@@ -44,6 +44,7 @@ My solutions to LeetCode problems
 | [0073-set-matrix-zeroes](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -60,6 +61,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -300,6 +302,7 @@ My solutions to LeetCode problems
 | [0051-n-queens](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
