@@ -45,6 +45,7 @@ My solutions to LeetCode problems
 | [0074-search-a-2d-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -89,6 +90,7 @@ My solutions to LeetCode problems
 | [0068-text-justification](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -200,6 +202,7 @@ My solutions to LeetCode problems
 | [0064-minimum-path-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -303,6 +306,7 @@ My solutions to LeetCode problems
 | [0052-n-queens-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,4 +381,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
