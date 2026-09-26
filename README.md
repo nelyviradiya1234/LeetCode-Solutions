@@ -49,6 +49,7 @@ My solutions to LeetCode problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -145,6 +146,7 @@ My solutions to LeetCode problems
 | [0064-minimum-path-sum](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -206,6 +208,7 @@ My solutions to LeetCode problems
 | [0073-set-matrix-zeroes](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -332,6 +335,7 @@ My solutions to LeetCode problems
 | [0032-longest-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,6 +378,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
