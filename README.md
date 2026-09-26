@@ -48,6 +48,7 @@ My solutions to LeetCode problems
 | [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -330,6 +331,7 @@ My solutions to LeetCode problems
 | [0020-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +373,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,4 +395,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
