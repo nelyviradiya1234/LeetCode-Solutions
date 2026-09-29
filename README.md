@@ -100,6 +100,7 @@ My solutions to LeetCode problems
 | [0076-minimum-window-substring](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [1927-sum-game](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -154,6 +155,7 @@ My solutions to LeetCode problems
 | [0072-edit-distance](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0087-scramble-string](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [1510-stone-game-iv](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp/) | Hard |
