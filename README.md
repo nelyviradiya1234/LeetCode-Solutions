@@ -51,6 +51,7 @@ My solutions to LeetCode problems
 | [0084-largest-rectangle-in-histogram](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -69,6 +70,7 @@ My solutions to LeetCode problems
 | [0067-add-binary](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -328,6 +330,7 @@ My solutions to LeetCode problems
 | [0078-subsets](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
