@@ -50,6 +50,7 @@ My solutions to LeetCode problems
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1563-stone-game-v](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
@@ -240,6 +241,7 @@ My solutions to LeetCode problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +309,7 @@ My solutions to LeetCode problems
 | [0049-group-anagrams](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nelyviradiya1234/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
